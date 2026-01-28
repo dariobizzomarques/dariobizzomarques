@@ -1,6 +1,6 @@
-# 👋 Hi, I'm a Backend Python Engineer
+# 👋 Hi, I'm a Software Engineer
 
-Backend Python developer specialized in **asynchronous architectures**, **REST APIs**, and **event-driven systems**, with strong experience building and operating **microservices in distributed production environments**, focusing on observability and scalability.
+Specialized in **python**, **asynchronous architectures**, **REST APIs**, and **event-driven systems**, with strong experience building and operating **microservices in distributed production environments**, focusing on observability and scalability.
 
 **27 years of professional experience**, with the **last 5 years based in Portugal**. I am comfortable working in **large organizations** and **cross-functional teams**, dealing with complex and critical systems.
 
