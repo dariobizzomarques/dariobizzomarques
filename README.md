@@ -64,10 +64,14 @@ This experience built a solid foundation in **high-availability systems**, **rea
 ### CDN & Edge
 ![Apache](https://img.shields.io/badge/Apache_Traffic_Control-D22128?style=flat&logo=apache&logoColor=white)
 
-## 🔬 Currently Exploring
+## 🔬 A.I. exploring stack
 
-- **LLM Systems**: LangChain, Ollama  
+- **LLM Systems**: Agentic development to integrate APIs and legacy scripts
 - **AI-powered Developer Tools**:
+  - LangChain
+  - Ollama
+  - Local running models,
+  - MCP server
   - GitHub Copilot  
   - Qwen  
   - Cursor  
