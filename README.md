@@ -1,20 +1,5 @@
 # 🧑‍💻 Senior Python Backend Developer
 
-## 🤖 AI Stack
-Development of AI agents using **LangChain**, **Ollama**, local and cloud models, and **MCP servers**.  
-Design of tools and orchestration layers for interacting with APIs and legacy scripts through natural language.
-
-## ⚙️ Core Stack
-- **Python** (Tornado, FastAPI)  
-- Redis, MongoDB, MSSQL  
-- Kafka, RabbitMQ  
-- Rancher, Argo, Nomad  
-- AWS (Lambda, ECS, EC2, S3)  
-- OpenTelemetry, ELK Stack, OpenSearch  
-- HashiCorp Vault, Ceph Rados  
-- Grafana, Prometheus, Jaeger  
-- Apache Traffic Control (CDN)
-
 ## 🏗️ Specialization
 - Asynchronous architectures  
 - REST APIs & event-driven systems  
@@ -32,6 +17,21 @@ Led the development of critical systems at the **Rio Operations Center (COR)** f
 - 2016 Olympic Games  
 
 Strong background in crisis management, mission-critical systems, and high availability.
+
+## 🤖 AI Stack
+Development of AI agents using **LangChain**, **Ollama**, local and cloud models, and **MCP servers**.  
+Design of tools and orchestration layers for interacting with APIs and legacy scripts through natural language.
+
+## ⚙️ Core Stack
+- **Python** (Tornado, FastAPI)  
+- Redis, MongoDB, MSSQL  
+- Kafka, RabbitMQ  
+- Rancher, Argo, Nomad  
+- AWS (Lambda, ECS, EC2, S3)  
+- OpenTelemetry, ELK Stack, OpenSearch  
+- HashiCorp Vault, Ceph Rados  
+- Grafana, Prometheus, Jaeger  
+- Apache Traffic Control (CDN)
 
 ## 🌍 Citizenship
 Portuguese 🇵🇹 and Brazilian 🇧🇷
