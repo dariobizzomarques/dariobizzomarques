@@ -1,26 +1,21 @@
 # 🧑‍💻 Senior Python Backend Developer
 
 ## 🏗️ Specialization
-- Asynchronous architectures  
-- REST APIs & event-driven systems  
 - Microservices (Tornado & FastAPI)  
+- REST APIs & event-driven systems  
+- Asynchronous architectures  
+- Github Speckit SDD (Spec Driven Development)
 - AI agents with LangChain based on **MCP (Model Context Protocol)**  
 - Observability and scalability in distributed production environments  
 
 ## 🧭 Experience
-27 years of professional experience, with the last 5 years based in Portugal.  
+28 years of professional experience, with the last 6 years based in Portugal.  
 Comfortable working in large organizations and multidisciplinary teams.
 
-## 🚨 Highlight
-Led the development of critical systems at the **Rio Operations Center (COR)** for:
-- 2014 FIFA World Cup  
-- 2016 Olympic Games  
-
-Strong background in crisis management, mission-critical systems, and high availability.
-
 ## 🤖 AI Stack
-Development of AI agents using **LangChain**, **Ollama**, local and cloud models, and **MCP servers**.  
-Design of tools and orchestration layers for interacting with APIs and legacy scripts through natural language.
+Lead projects developed with Github Speckit SDD (Spec Driven Development)
+Development with custom harness AI agents using **LangChain**, **Ollama**, local and cloud models, and **MCP servers**.  
+Design tools for interacting with APIs and legacy scripts through natural language.
 
 ## ⚙️ Core Stack
 - **Python** (Tornado, FastAPI)  
@@ -33,12 +28,19 @@ Design of tools and orchestration layers for interacting with APIs and legacy sc
 - Grafana, Prometheus, Jaeger  
 - Apache Traffic Control (CDN)
 
-## 🌍 Citizenship
-Portuguese 🇵🇹 and Brazilian 🇧🇷
+## 🚨 Highlight
+Led the development of critical systems at the **Rio Operations Center (COR)** for:
+- 2014 FIFA World Cup  
+- 2016 Olympic Games  
+
+Strong background in crisis management, mission-critical systems, and high availability.
 
 ## 🎥 Featured In
 - ▶️ [Google Maps](https://www.youtube.com/watch?v=DxcQd1GCdn0)  
 - ▶️ [Waze (minute 4:15)](https://www.youtube.com/watch?v=z-_VjPesrMs)
+
+## 🌍 Citizenship
+Portuguese 🇵🇹 and Brazilian 🇧🇷
 
 ---
 
