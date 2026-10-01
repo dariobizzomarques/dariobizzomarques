@@ -5,7 +5,7 @@
 - REST APIs & event-driven systems  
 - Asynchronous architectures  
 - Github Speckit SDD (Spec Driven Development)
-- AI agents with LangChain based on **MCP (Model Context Protocol)**  
+- Custom harness with LangChain, AI agents, integration with MCP (Model Context Protocol)
 - Observability and scalability in distributed production environments  
 
 ## 🧭 Experience
